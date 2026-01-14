@@ -1,0 +1,11 @@
+# Compiled executable
+main
+
+# Object files
+*.o
+
+# VS Code settings (optional - some people do commit this)
+.vscode/
+
+# macOS
+.DS_Store
